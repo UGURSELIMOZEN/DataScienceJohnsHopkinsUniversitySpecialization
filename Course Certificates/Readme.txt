@@ -1,0 +1,1 @@
+This file includes all certificates from Data_Science_Johns_Hopkins_University_Specialization.
